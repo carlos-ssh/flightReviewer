@@ -1,2 +1,24 @@
-# flightReviewer
-I built a CRUD app with ruby on rails and react.js!; and also be using some interesting technologies and tools like fast_jsonapi to build out our api, styled-components to add styling on the front end, react-router, axios, and more! 
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
